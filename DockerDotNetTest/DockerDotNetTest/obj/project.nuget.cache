@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9xwBnuT4uj2F1S2BTvzde0vQGmhcw138WcSpfM3TIl1Lvw5LwaWffzGvqEqVuhRNV+hkWoV7babwZx1jzJsdQQ==",
+  "dgSpecHash": "wBmC2xsbqcsGDBmUYZ2L6pUwljSAuTn+AW8zeEwmnToLPeLrBoLe2a4Th9cybAJuYvdCGZIyXPuL3zjkBW/WCw==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\DockerDotNetTest\\DockerDotNetTest\\DockerDotNetTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/git/test/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-musl-x64/6.0.22/microsoft.netcore.app.host.linux-musl-x64.6.0.22.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
