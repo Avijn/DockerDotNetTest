@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "r5Pgdg9bGlG4UipsQbpoz+KHBT4BgOOfNPY17cRjBevVS4X+nFJ8mLIRhaBQaHaKKDuN/0CekZZuLQcbPG+eCQ==",
+  "dgSpecHash": "EUA+yTfUWUtlN6UFCvhRo+85a9Fr3QZjtqV2wBxYjaPWlLBq3REdzFneMANy+suceOWbAmppaOmTbLqDacz+qg==",
   "success": true,
   "projectFilePath": "/test/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+    "/root/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.23/microsoft.netcore.app.host.linux-x64.6.0.23.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "DockerDotNetTest depends on Newtonsoft.Json (>= 12.0.0) but Newtonsoft.Json 12.0.0 was not found. An approximate best match of Newtonsoft.Json 12.0.1 was resolved.",
+      "message": "DockerDotNetTest depends on Newtonsoft.Json (>= 11.0.0) but Newtonsoft.Json 11.0.0 was not found. An approximate best match of Newtonsoft.Json 11.0.1 was resolved.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net6.0"

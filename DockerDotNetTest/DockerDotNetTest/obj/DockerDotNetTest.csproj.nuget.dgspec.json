@@ -5,7 +5,7 @@
   },
   "projects": {
     "/test/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest.csproj": {
-      "version": "12.0.0",
+      "version": "11.0.0",
       "restore": {
         "projectUniqueName": "/test/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest/DockerDotNetTest.csproj",
         "projectName": "DockerDotNetTest",
@@ -40,7 +40,7 @@
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[11.0.0, )"
             }
           },
           "imports": [
@@ -57,15 +57,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
